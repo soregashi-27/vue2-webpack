@@ -15,7 +15,7 @@
   \********************************/
 /***/ (() => {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n> <template>\\n|   <div class=\\\"example\\\">\\n|     {{ message }}\");\n\n//# sourceURL=webpack://vue-webpack/./components/example.vue?");
+eval("throw new Error(\"Module build failed (from ./node_modules/vue-loader/dist/index.js):\\nError: vue-loader requires @vue/compiler-sfc to be present in the dependency tree.\\n    at Object.<anonymous> (/Users/Tomohiro/dev/vue-webpack/node_modules/vue-loader/dist/index.js:8:11)\\n    at Module._compile (/Users/Tomohiro/dev/vue-webpack/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)\\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)\\n    at Module.load (node:internal/modules/cjs/loader:989:32)\\n    at Function.Module._load (node:internal/modules/cjs/loader:829:14)\\n    at Module.require (node:internal/modules/cjs/loader:1013:19)\\n    at require (/Users/Tomohiro/dev/vue-webpack/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)\\n    at loadLoader (/Users/Tomohiro/dev/vue-webpack/node_modules/loader-runner/lib/loadLoader.js:19:17)\\n    at iteratePitchingLoaders (/Users/Tomohiro/dev/vue-webpack/node_modules/loader-runner/lib/LoaderRunner.js:182:2)\\n    at runLoaders (/Users/Tomohiro/dev/vue-webpack/node_modules/loader-runner/lib/LoaderRunner.js:397:2)\");\n\n//# sourceURL=webpack://vue-webpack/./components/example.vue?");
 
 /***/ }),
 
