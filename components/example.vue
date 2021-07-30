@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      message: 'Hello Vue.js!(2.6.14)',
+      message: "Hello Vue.js!(2.6.14)",
     };
   },
 };
