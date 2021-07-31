@@ -1,5 +1,5 @@
 # vue2-webpack
 Checkout file below
-・.editorconfig
-・prettierrc
+・.editorconfig \
+・prettierrc \
 ・webpack.config.js
