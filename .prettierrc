@@ -1,5 +1,5 @@
 {
-  "singleQuote": true,
-  "semi": true,
-  "printWidth": 120
+  "singleQuote": true, //文字列はsingle quote
+  "semi": true, //セミコロン必要 
+  "printWidth": 120 //文字数指定
 }
