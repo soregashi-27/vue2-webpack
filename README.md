@@ -2,5 +2,5 @@
 Checkout file below \
 ・.editorconfig \
 ・prettierrc \
-・webpack.config.js
+・webpack.config.js \
 ・Issue of vue-loader version.
